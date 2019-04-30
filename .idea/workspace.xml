@@ -105,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/JChain/suomi/chain">
-    <configuration name="go build github.com/JChain/suomi/chain" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build github.com/transformer/suomi/chain">
+    <configuration name="go build github.com/transformer/suomi/chain" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="suomi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="DIRECTORY" />
@@ -119,7 +119,7 @@
       <working_directory value="$PROJECT_DIR$/chain" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/chain/main.go" />
-      <package value="github.com/JChain/suomi" />
+      <package value="github.com/transformer/suomi" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -133,11 +133,11 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Build.go build github.com/JChain/suomi/chain" />
+      <item itemvalue="Go Build.go build github.com/transformer/suomi/chain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/JChain/suomi/chain" />
+        <item itemvalue="Go Build.go build github.com/transformer/suomi/chain" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build main.go" />
       </list>

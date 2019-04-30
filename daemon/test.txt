@@ -1,0 +1,16 @@
+// package main
+
+// import (
+// 	"fmt"
+// 	"github.com/transformer/evolution/tx"
+// )
+
+// func main(){
+// 	txs := make([]tx.Transaction, 1)
+// 	txs[0] = tx.Transaction{Nonce: 2}
+// 	fmt.Println(txs)
+// 	txs2 := []tx.Transaction{tx.Transaction{Nonce: 9}, tx.Transaction{Nonce: 3}, tx.Transaction{Nonce: 5}}
+// 	fmt.Println(txs2)
+// 	copy(txs[0:], txs2[:2])
+// 	fmt.Println(txs)
+// }
