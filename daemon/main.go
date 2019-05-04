@@ -76,4 +76,3 @@ func makeMuxRouter() http.Handler {
 	muxRouter.HandleFunc("/", apiblock.New(Blockchain).HandleWriteBlock).Methods("POST")
 	return muxRouter
 }
-
